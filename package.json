@@ -1,0 +1,32 @@
+{
+  "name": "mangavoyage",
+  "version": "1.0.0",
+  "main": "expo-router/entry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~53.0.17",
+    "expo-constants": "~17.1.7",
+    "expo-linking": "~7.1.7",
+    "expo-router": "~5.1.4",
+    "expo-status-bar": "~2.2.3",
+    "firebase": "^12.2.1",
+    "lottie-react-native": "7.2.2",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-web": "^0.20.0",
+    "react-native-webview": "13.13.5",
+    "expo-image-picker": "~16.1.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
